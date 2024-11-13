@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+
+                // ALL the following paths need to be modified according to yours.
+                "E:/Qt/6.8.0/mingw_64/include/**",
+                "E:/Qt/6.8.0/mingw_64/include/QtCore",
+                "C:/Users/ASUS/AppData/Local/cs106/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
